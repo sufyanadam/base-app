@@ -10,7 +10,7 @@ gem 'eco'
 
 group :development, :test do
   gem 'jasmine'
-  gem 'rspec-rails'
+  gem 'rspec-rails', '>= 8.0.0'
 end
 
 
